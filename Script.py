@@ -13,7 +13,7 @@ class script(object):
 - ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
   sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : - 🔐
    
--  ᴅᴇᴠᴇʟᴏᴘᴇ<a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
+-  ᴅᴇᴠᴇʟᴏᴘᴇʀ : - <a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
