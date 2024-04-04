@@ -10,10 +10,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁E 👉 :<a href=https://t.me/KOUNDINYA_MOVIEZ>𝙎𝙃𝙋𝙧𝙤𝙎𝙚𝙖𝙧𝙘𝙝𝙗𝙤𝙩</a>
-
-<b>DEV:</b>
-- 𝙳𝚎𝚟 1<a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
+- ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
+  sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : - 🔐
+   
+- ᴅᴇᴠᴇʟᴏᴘᴇʀ𝚟 <a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
