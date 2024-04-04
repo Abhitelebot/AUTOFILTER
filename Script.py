@@ -13,7 +13,7 @@ class script(object):
 - ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
   sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : - 🔐
    
-- ᴅᴇᴠᴇʟᴏᴘᴇʀ𝚟 <a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
+-  ᴅᴇᴠᴇʟᴏᴘᴇ<a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -29,7 +29,7 @@ class script(object):
 
 <code>/batch https://t.me/SHProSearchbot https://t.me/SHProSearchbot</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/SHProSearchbot><b>𝙎𝙃𝙋𝙧𝙤𝙎𝙚𝙖𝙧𝙘𝙝𝙗𝙤𝙩</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=KOUNDINYA_MOVIEZ><b>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -75,7 +75,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/SHProSearchbot>𝙎𝙃𝙋𝙧𝙤𝙎𝙚𝙖𝙧𝙘𝙝𝙗𝙤𝙩</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/KOUNDINYA_MOVIEZ>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -333,7 +333,7 @@ Delete A Lot Of Messages From Groups!
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song SH_OTT</code>
+<code>/song KOUNDINYA_MOVIEZ</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
 
