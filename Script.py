@@ -27,9 +27,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/SHProSearchbot https://t.me/SHProSearchbot</code>
+<code>/batch KOUNDINYA_MOVIEZ/1 https://t.me/KOUNDINYA_MOVIEZ/10</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=KOUNDINYA_MOVIEZ><b>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=t.me/KOUNDINYA_MOVIEZ><b>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
