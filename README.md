@@ -89,7 +89,7 @@ connect - connect to PM.
 disconnect - disconnect from PM
 del - delete a filter
 delall - delete all filters
-deleteall - delete all index(autofilter)
+deleteall - delete all index (autofilter)
 delete - delete a specific file from index.
 info - get user info
 id - get tg ids.
@@ -103,9 +103,7 @@ enable - re-enable chat.
 ban_user  - to ban a user.
 unban_user  - to unban a user.
 channel - to get list of total connected channels
-broadcast - to broadcast a message to all Eva Maria users
-
-
+broadcast - to broadcast a message to all users
 clear_junk - clear all delete account & blocked account in database 
 clear_junk_group - clear add removed group or deactivated groups on db
 ```
